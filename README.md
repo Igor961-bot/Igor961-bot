@@ -1,5 +1,7 @@
-## Hi there 👋
+# Hi there 👋
 
+### 🌱 Currently studying Engineering and Data Analysis at the Faculty of Mathematics and Information Sciences of Warsaw University of Technology.
+### 🔭 Working on machine learning projects and Java games modifications.
 <!--
 **Igor961-bot/Igor961-bot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
